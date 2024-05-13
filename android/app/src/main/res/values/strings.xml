@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hepi Music</string>
+    <!-- rtnp channel id -->
+    <string name="rntp_temporary_channel_id">hepi_music</string>
+    <!-- rtnp channel name -->
+    <string name="rntp_temporary_channel_name">hepi_music_channel</string>
+    <!-- playback_channel_name used by KotlinAudio in rntp -->
+    <string name="playback_channel_name">Hepi Music Player</string>
+</resources>
